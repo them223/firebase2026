@@ -1,0 +1,8 @@
+# Firebase
+.idea/
+.gradle/
+build/
+# Sensitive files
+.env
+*.key
+*.pem
